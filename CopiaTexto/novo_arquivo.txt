@@ -1,0 +1,12 @@
+Alguem digitou : 'ola sou eu dnv' na data e hora :2024-11-02 23:16:58.675125
+Alguem digitou : 'ola' na data e hora :2024-11-02 23:17:03.081907
+Alguem digitou : 'eu sou bunitao' na data e hora :2024-11-02 23:17:11.260275
+sAlguem digitou : 'p' na data e hora :2024-11-03 13:58:42.362933
+Alguem digitou : 'a' na data e hora :2024-11-03 15:51:26.665269
+Alguem digitou : 'asdasdsa' na data e hora :2024-11-03 15:52:51.069600
+Alguem digitou : 'ld' na data e hora :2024-11-03 15:54:18.148621
+Alguém digitou: 'oi' na data e hora: 2024-11-03 15:57:03.871197
+Alguem digitou : 'PQ ' na data e hora :2024-11-03 15:59:47.736308
+Alguem digitou : 'oi' na data e hora :2024-11-03 16:02:54.932989
+Alguem digitou : 's' na data e hora :2024-11-03 16:03:08.573580
+Alguem digitou : 'olaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' na data e hora :2024-11-03 16:07:16.371633
